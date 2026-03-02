@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target '12A Tablo' in project '12A Tablo' (no dependencies)

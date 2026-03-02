@@ -13,5 +13,6 @@ struct _2A_TabloApp: App {
         WindowGroup {
             ContentView()
         }
+        .windowStyle(.hiddenTitleBar)
     }
 }

@@ -1,0 +1,56 @@
+{
+  "source": "/Users/leventebotos/12A Tablo/12A Tablo/SidebarPanelView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "12.A",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Navigacio",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Statisztika",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Osztaly Adatok",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "12.A Dashboard",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Osztalytablo iranyitopult",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 38
+        }
+      }
+    ]
+  },
+  "version": 1
+}

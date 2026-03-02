@@ -1,0 +1,33 @@
+0 verbose cli /Users/leventebotos/.nvm/versions/node/v24.13.0/bin/node /Users/leventebotos/.nvm/versions/node/v24.13.0/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@11.11.0
+2 info using node@v24.13.0
+3 silly config load:file:/Users/leventebotos/.nvm/versions/node/v24.13.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/leventebotos/12A Tablo/.npmrc
+5 silly config load:file:/Users/leventebotos/.npmrc
+6 silly config load:file:/Users/leventebotos/.nvm/versions/node/v24.13.0/etc/npmrc
+7 verbose title npm exec tsc
+8 verbose argv "exec" "--offline" "--" "tsc"
+9 verbose logfile logs-max:10 dir:/Users/leventebotos/12A Tablo/.npm-cache/_logs/2026-03-02T08_14_12_004Z-
+10 verbose logfile /Users/leventebotos/12A Tablo/.npm-cache/_logs/2026-03-02T08_14_12_004Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 verbose stack Error: request to https://registry.npmjs.org/tsc failed: cache mode is 'only-if-cached' but no cached response is available.
+13 verbose stack     at cacheFetch (/Users/leventebotos/.nvm/versions/node/v24.13.0/lib/node_modules/npm/node_modules/make-fetch-happen/lib/cache/index.js:12:13)
+13 verbose stack     at async fetch (/Users/leventebotos/.nvm/versions/node/v24.13.0/lib/node_modules/npm/node_modules/make-fetch-happen/lib/fetch.js:98:7)
+13 verbose stack     at async RegistryFetcher.packument (/Users/leventebotos/.nvm/versions/node/v24.13.0/lib/node_modules/npm/node_modules/pacote/lib/registry.js:90:19)
+13 verbose stack     at async RegistryFetcher.manifest (/Users/leventebotos/.nvm/versions/node/v24.13.0/lib/node_modules/npm/node_modules/pacote/lib/registry.js:128:23)
+13 verbose stack     at async getManifest (/Users/leventebotos/.nvm/versions/node/v24.13.0/lib/node_modules/npm/node_modules/libnpmexec/lib/index.js:29:22)
+13 verbose stack     at async missingFromTree (/Users/leventebotos/.nvm/versions/node/v24.13.0/lib/node_modules/npm/node_modules/libnpmexec/lib/index.js:69:22)
+13 verbose stack     at async /Users/leventebotos/.nvm/versions/node/v24.13.0/lib/node_modules/npm/node_modules/libnpmexec/lib/index.js:191:32
+13 verbose stack     at async Promise.all (index 0)
+13 verbose stack     at async exec (/Users/leventebotos/.nvm/versions/node/v24.13.0/lib/node_modules/npm/node_modules/libnpmexec/lib/index.js:189:3)
+13 verbose stack     at async Npm.exec (/Users/leventebotos/.nvm/versions/node/v24.13.0/lib/node_modules/npm/lib/npm.js:209:9)
+14 error code ENOTCACHED
+15 error request to https://registry.npmjs.org/tsc failed: cache mode is 'only-if-cached' but no cached response is available.
+16 verbose cwd /Users/leventebotos/12A Tablo
+17 verbose os Darwin 25.3.0
+18 verbose node v24.13.0
+19 verbose npm  v11.11.0
+20 verbose exit 1
+21 verbose code 1
+22 error A complete log of this run can be found in: /Users/leventebotos/12A Tablo/.npm-cache/_logs/2026-03-02T08_14_12_004Z-debug-0.log

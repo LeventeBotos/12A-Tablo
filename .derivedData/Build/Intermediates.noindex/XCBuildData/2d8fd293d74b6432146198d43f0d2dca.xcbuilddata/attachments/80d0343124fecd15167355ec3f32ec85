@@ -1,0 +1,39 @@
+{
+  "" : {
+    "diagnostics" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/12A Tablo-primary.dia",
+    "emit-module-dependencies" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/12A Tablo-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/12A Tablo-primary-emit-module.dia",
+    "pch" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/12A Tablo-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/12A Tablo-primary.swiftdeps"
+  },
+  "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/leventebotos/12A Tablo/12A Tablo/ContentView.swift" : {
+    "const-values" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/leventebotos/12A Tablo/12A Tablo/_2A_TabloApp.swift" : {
+    "const-values" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/_2A_TabloApp.swiftconstvalues",
+    "dependencies" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/_2A_TabloApp.d",
+    "diagnostics" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/_2A_TabloApp.dia",
+    "index-unit-output-path" : "/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/_2A_TabloApp.o",
+    "llvm-bc" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/_2A_TabloApp.bc",
+    "object" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/_2A_TabloApp.o",
+    "swift-dependencies" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/_2A_TabloApp.swiftdeps",
+    "swiftmodule" : "/Users/leventebotos/12A Tablo/.derivedData/Build/Intermediates.noindex/12A Tablo.build/Debug/12A Tablo.build/Objects-normal/arm64/_2A_TabloApp~partial.swiftmodule"
+  }
+}
